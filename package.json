@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "eventify",
   "private": true,
   "scripts": {
     "build": "turbo build",
